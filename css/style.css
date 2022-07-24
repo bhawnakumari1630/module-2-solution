@@ -87,6 +87,9 @@ section{
         width: 48%;
         float: left;
     }
+    .kulfi{
+        clear: both;
+     }
  }
 
  @media (max-width:767px){
